@@ -42,7 +42,7 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 | Alta       | Gestão de Incidentes                                                       | I                     | A                   | R             | I
 | Médio      | Gestão de Requisitos e Priorização                                         | C                     | A                   | R             | I
 | Alta       | Comunicação com Stakeholders                                               | I                     | A                   | R             | I
-| Alta       | Aprovação de Entregas                                                      | I                     | R                   | C             | A
+| Alta       | Aprovação de Entregas | C | R | C | A |
 | Alta       | Definição de Políticas de Segurança                                        | R                     | A                   | I             | I
 | Médio      | Consultoria em Arquitetura Segura                                          | R                     | C                   | I             | A
 | Médio      | Implementação de Auditoria de Logs e Eventos                               | C                     | A                   | R             | I
