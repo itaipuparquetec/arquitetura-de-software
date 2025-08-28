@@ -34,7 +34,7 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 | Médio      | Ajustes de performance (Frontend)                                          | C                     | A                   | R             | I
 | Médio      | QA - Testes Funcionais                                                     | I                     | A                   | C             | I
 | Médio      | Testes de Regressão                                                        | C                     | A                   | I             | I
-| Médio      | Testes de Segurança                                                        | R                     | A                   | I             | I
+| Médio      | Testes de Segurança | C | A | R | I |
 | Médio      | Validação de requisitos                                                    | C                     | A                   | R             | I
 | Alta       | Definição e configuração de Pipelines CI/CD                                | R                     | A                   | I             | I
 | Alta       | Implantação de Observabilidade                                             | C                     | A                   | R             | I
