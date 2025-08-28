@@ -16,33 +16,33 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 
 ## Matriz
 
-| Prioridade | Atividade                                                                    | Arquiteto de Software | Coordenador Técnico | Desenvolvedor |
-| ---------- | ---------------------------------------------------------------------------- | --------------------- | ------------------- | ------------- |
-| Alta       | Definição da Arquitetura de Referência (Boilerplate)                         | R                     | A                   | C             |
-| Médio      | Modelagem C4/UML                                                             | R                     | A                   | I             |
-| Médio      | Sugestões via RFCs e Design Docs                                             | R                     | R                   | R             |
-| Alta       | Criação da Matriz de Tecnologias Homologadas                                 | R                     | A                   | C             |
-| Média      | Definição de design de código (Ports And Adapters, DDD, Clean Arch, etc..)   | C                     | R                   | C             |
-| Média      | Definição de fitness function de validação de design de código               | C                     | R                   | I             |
-| Média      | Code Review                                                                  | C                     | A                   | A             |
-| Alta       | Implementação Backend                                                        | C                     | A                   | R             |
-| Alta       | Implementação de Frontend                                                    | C                     | A                   | R             |
-| Médio      | Integração com Mensageria                                                    | C                     | A                   | R             |
-| Médio      | Testes Unitários (Backend)                                                   | C                     | A                   | R             |
-| Médio      | Testes Unitários (Frontend)                                                  | C                     | A                   | R             |
-| Médio      | Ajustes de performance (Backend)                                             | C                     | A                   | R             |
-| Médio      | Ajustes de performance (Frontend)                                            | C                     | A                   | R             |
-| Médio      | QA - Testes Funcionais                                                       | I                     | R                   | C             |
-| Médio      | Testes de Regressão                                                          | C                     | R                   | I             |
-| Médio      | Testes de Segurança                                                          | R                     | A                   | I             |
-| Médio      | Validação de requisitos                                                      | C                     | R                   | R             |
-| Alta       | Definição de Pipelines CI/CD                                                 | R                     | A                   | I             |
-| Alta       | Implantação de Observabilidade                                               | R                     | A                   | I             |
-| Alta       | Gestão de Ambientes (dev/stg/prd)                                            | R                     | A                   | R             |
-| Alta       | Gestão de Incidentes                                                         | I                     | A                   | R             |
-| Médio      | Gestão de Requisitos e Priorização                                           | C                     | R                   | R             |
-| Alta       | Comunicação com Stakeholders                                                 | I                     | R                   | R             |
-| Alta       | Aprovação de Entregas                                                        | I                     | R                   | C             |
-| Alta       | Definição de Políticas de Segurança                                          | R                     | R                   | I             |
-| Médio      | Consultoria em Arquitetura Segura                                            | R                     | A                   | C             |
-| Médio      | Implementação de Auditoria de Logs e Eventos                                 | R                     | A                   | C             |
+| Prioridade | Atividade                                                                  | Arquiteto de Software | Coordenador Técnico | Desenvolvedor | Gestor da área 
+| ---------- | -------------------------------------------------------------------------- | --------------------- | ------------------- | ------------- | ----------
+| Alta       | Definição da Arquitetura de Referência (Boilerplate)                       | R                     | A                   | C             | I
+| Médio      | Modelagem C4/UML                                                           | R                     | A                   | I             | I
+| Médio      | Sugestões via RFCs e Design Docs                                           | R                     | A                   | R             | I
+| Alta       | Criação da Matriz de Tecnologias Homologadas                               | R                     | A                   | C             | I
+| Média      | Definição de design de código (Ports And Adapters, DDD, Clean Arch, etc..) | R                     | A                   | C             | I
+| Média      | Definição de fitness function de validação de design de código             | R                     | A                   | I             | I
+| Média      | Code Review                                                                | C                     | A                   | R             | I
+| Alta       | Implementação Backend                                                      | C                     | A                   | R             | I
+| Alta       | Implementação de Frontend                                                  | C                     | A                   | R             | I
+| Médio      | Integração com Mensageria                                                  | C                     | A                   | R             | I
+| Médio      | Testes Unitários (Backend)                                                 | C                     | A                   | R             | I
+| Médio      | Testes Unitários (Frontend)                                                | C                     | A                   | R             | I
+| Médio      | Ajustes de performance (Backend)                                           | C                     | A                   | R             | I
+| Médio      | Ajustes de performance (Frontend)                                          | C                     | A                   | R             | I
+| Médio      | QA - Testes Funcionais                                                     | I                     | A                   | C             | I
+| Médio      | Testes de Regressão                                                        | C                     | A                   | I             | I
+| Médio      | Testes de Segurança                                                        | R                     | A                   | I             | I
+| Médio      | Validação de requisitos                                                    | C                     | A                   | R             | I
+| Alta       | Definição e configuração de Pipelines CI/CD                                | R                     | A                   | I             | I
+| Alta       | Implantação de Observabilidade                                             | R                     | A                   | I             | I
+| Alta       | Gestão de Ambientes (dev/stg/prd)                                          | R                     | A                   | R             | I
+| Alta       | Gestão de Incidentes                                                       | I                     | A                   | R             | I
+| Médio      | Gestão de Requisitos e Priorização                                         | C                     | A                   | R             | I
+| Alta       | Comunicação com Stakeholders                                               | I                     | A                   | R             | I
+| Alta       | Aprovação de Entregas                                                      | I                     | R                   | C             | A
+| Alta       | Definição de Políticas de Segurança                                        | R                     | A                   | I             | I
+| Médio      | Consultoria em Arquitetura Segura                                          | R                     | C                   | I             | A
+| Médio      | Implementação de Auditoria de Logs e Eventos                               | R                     | A                   | C             | I
