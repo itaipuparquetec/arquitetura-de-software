@@ -37,12 +37,12 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 | Médio      | Testes de Segurança                                                        | R                     | A                   | I             | I
 | Médio      | Validação de requisitos                                                    | C                     | A                   | R             | I
 | Alta       | Definição e configuração de Pipelines CI/CD                                | R                     | A                   | I             | I
-| Alta       | Implantação de Observabilidade                                             | R                     | A                   | I             | I
-| Alta       | Gestão de Ambientes (dev/stg/prd)                                          | R                     | A                   | R             | I
+| Alta       | Implantação de Observabilidade                                             | C                     | A                   | R             | I
+| Alta       | Gestão de Ambientes (dev/stg/prd)                                          | C                     | A                   | R             | I
 | Alta       | Gestão de Incidentes                                                       | I                     | A                   | R             | I
 | Médio      | Gestão de Requisitos e Priorização                                         | C                     | A                   | R             | I
 | Alta       | Comunicação com Stakeholders                                               | I                     | A                   | R             | I
 | Alta       | Aprovação de Entregas                                                      | I                     | R                   | C             | A
 | Alta       | Definição de Políticas de Segurança                                        | R                     | A                   | I             | I
 | Médio      | Consultoria em Arquitetura Segura                                          | R                     | C                   | I             | A
-| Médio      | Implementação de Auditoria de Logs e Eventos                               | R                     | A                   | C             | I
+| Médio      | Implementação de Auditoria de Logs e Eventos                               | C                     | A                   | R             | I
