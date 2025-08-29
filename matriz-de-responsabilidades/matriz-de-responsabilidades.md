@@ -33,8 +33,8 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 | Médio      | Ajustes de performance (Backend)                                           | C                     | A                   | R             | I
 | Médio      | Ajustes de performance (Frontend)                                          | C                     | A                   | R             | I
 | Médio      | QA - Testes Funcionais                                                     | I                     | A                   | C             | I
-| Médio      | Testes de Regressão                                                        | C                     | A                   | I             | I
-| Médio      | Testes de Segurança                                                        | R                     | A                   | I             | I
+| Médio      | Testes de Regressão | C | A | R | I |
+| Médio      | Testes de Segurança | C | A | R | I |
 | Médio      | Validação de requisitos                                                    | C                     | A                   | R             | I
 | Alta       | Definição de Pipelines CI/CD                                               | R                     | A                   | I             | I
 | Alta       | Auxílio na implantação de Pipelines CI/CD                                  | R                     | A                   | R             | I
@@ -48,7 +48,7 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 | Alta       | Gestão de Incidentes                                                       | I                     | A                   | R             | I
 | Médio      | Gestão de Requisitos e Priorização                                         | C                     | A                   | R             | I
 | Alta       | Comunicação com Stakeholders                                               | I                     | A                   | R             | I
-| Alta       | Aprovação de Entregas                                                      | I                     | R                   | C             | A
+| Alta       | Aprovação de Entregas | C | R | C | A |
 | Alta       | Definição de Políticas de Segurança                                        | R                     | A                   | I             | I
 | Médio      | Consultoria em Arquitetura Segura                                          | R                     | C                   | I             | A
 | Médio      | Implementação de Auditoria de Logs e Eventos                               | C                     | A                   | R             | I
