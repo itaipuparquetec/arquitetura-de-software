@@ -36,8 +36,14 @@ Manter a matriz RACI **versionada**, **auditável** e **fácil de ler**. Este di
 | Médio      | Testes de Regressão                                                        | C                     | A                   | I             | I
 | Médio      | Testes de Segurança                                                        | R                     | A                   | I             | I
 | Médio      | Validação de requisitos                                                    | C                     | A                   | R             | I
-| Alta       | Definição e configuração de Pipelines CI/CD                                | R                     | A                   | I             | I
-| Alta       | Implantação de Observabilidade                                             | C                     | A                   | R             | I
+| Alta       | Definição de Pipelines CI/CD                                               | R                     | A                   | I             | I
+| Alta       | Auxílio na implantação de Pipelines CI/CD                                  | R                     | A                   | R             | I
+| Alta       | Implantação de Pipelines CI/CD                                             | C                     | A                   | R             | I
+| Alta       | Operação de Pipelines CI/CD                                                | I                     | A                   | R             | I
+| Alta       | Definição de ferramentas de Observabilidade (Tracing, Logs e métricas)     | R                     | A                   | C             | I
+| Alta       | Auxilio na implantação de ferramentas de Observabilidade                   | R                     | A                   | R             | I
+| Alta       | Implantação de ferramentas de Observabilidade (Tracing, Logs e métricas)   | C                     | A                   | R             | I
+| Alta       | Operação de ferramentas de Observabilidade (Tracing, Logs e métricas)      | I                     | A                   | R             | I
 | Alta       | Gestão de Ambientes (dev/stg/prd)                                          | C                     | A                   | R             | I
 | Alta       | Gestão de Incidentes                                                       | I                     | A                   | R             | I
 | Médio      | Gestão de Requisitos e Priorização                                         | C                     | A                   | R             | I
